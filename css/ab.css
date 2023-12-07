@@ -1,0 +1,14 @@
+.small-container{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+	padding-right: 25px;
+}
+.imgg
+{
+    background: url(formb.jpg) 100% ;
+	margin-bottom: 0px;
+}
+#abou{
+    background-color:#45ccb8;
+}
